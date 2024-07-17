@@ -1,2 +1,2 @@
 # my-first-train-python-code
-ini adalah project pertama saya dengan python
+ini adalah project pertama saya menggunakan python
