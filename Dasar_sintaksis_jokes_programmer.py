@@ -26,15 +26,14 @@ jumlah_telur = 1570
 print(f"Jumlah botol susu {jumlah_botol_susu} botol")
 print(f"Jumlah telur {jumlah_telur} butir")
 
-if jumlah_botol_susu >0 :
+if jumlah_botol_susu > 0:
     print("Budi mengecek harga dan ternyata cukup")
-    if jumlah_telur ==0 :
+    if jumlah_telur == 0:
         print("Budi membeli satu botol susu")
-    else :
+    else:
         print("Budi membeli 1 botol susu dan 6 butir telur")
-else :
+else:
     print("Budi tidak jadi membeli satu botol susu")
 
 print("Budi pulang kerumah")
 print("menyampaikan hasilnya kepada ibu")
-
