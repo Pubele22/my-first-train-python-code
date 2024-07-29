@@ -1,4 +1,10 @@
 """
+This my first demo project with python
+"""
+print("Hello World")
+print("My Name is Yustino")
+
+"""
 semua sintaksi dasar bahasa pemrograman terdiri dari :
 1. Sekuensial : Langkah Berurutan
 2. Percabangan : Langkah melompat jika kondisi terpenuhi
